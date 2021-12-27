@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(131, 105, 71);
+}
+.my-css {
+    background-color: blue;
+    height: 300px;
+    width: 650px;
+    font-size: x-large;
+}
+#my-id-css {
+    font-style: bold;
+    color: aqua;
+    border: 10px solid black;
+}
+.padded-container-1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 5px solid   orange;
+    margin: 20px;
+    padding: 20px;
+}
+
